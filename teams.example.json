@@ -1,0 +1,16 @@
+{
+  "analitik": {
+    "name": "Takım A",
+    "username": "takim-a",
+    "password": "BURAYA-SIFRE-YAZIN",
+    "users": ["Ali", "Ayşe", "Mehmet"],
+    "dataFile": "data.json"
+  },
+  "ekip2": {
+    "name": "Takım B",
+    "username": "takim-b",
+    "password": "BURAYA-SIFRE-YAZIN",
+    "users": ["Zeynep", "Can"],
+    "dataFile": "data-ekip2.json"
+  }
+}

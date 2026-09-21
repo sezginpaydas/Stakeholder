@@ -1,0 +1,13 @@
+# Yerel veri ve gizli dosyalar: repoya gönderilmez
+teams.json
+data*.json
+secret.key
+server.log
+server.pid
+*.tmp
+
+# Yedek klasörü boş olarak tutulur
+backups/*
+!backups/.gitkeep
+
+__pycache__/
